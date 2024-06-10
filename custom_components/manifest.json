@@ -1,0 +1,9 @@
+{
+    "domain": "wyze_thermostat",
+    "name": "Wyze Thermostat",
+    "version": "1.0.0",
+    "documentation": "https://github.com/your-repo/wyze_thermostat",
+    "dependencies": [],
+    "codeowners": ["@dougbevis"],
+    "requirements": ["wyzeapy"]
+  }

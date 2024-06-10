@@ -1,0 +1,10 @@
+{
+    "name": "Wyze Thermostat",
+    "content_in_root": false,
+    "country": "us",
+    "domain": "wyze_thermostat",
+    "filename": "custom_components/wyze_thermostat",
+    "homeassistant": "0.110.0",
+    "render_readme": true,
+    "zip_release": false
+  }

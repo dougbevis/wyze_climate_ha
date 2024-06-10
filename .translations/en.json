@@ -1,0 +1,13 @@
+{
+    "config": {
+      "step": {
+        "user": {
+          "title": "Wyze Thermostat Configuration",
+          "data": {
+            "username": "Username",
+            "password": "Password"
+          }
+        }
+      }
+    }
+  }
